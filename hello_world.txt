@@ -1,0 +1,1 @@
+Is this the right way to open a file? # xdg-open hello_world.txt
